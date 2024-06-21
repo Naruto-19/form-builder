@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "PageForm by Neeraj Uikey",
-  description: "Check my youtube channel for more content",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
