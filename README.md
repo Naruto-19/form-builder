@@ -1,7 +1,7 @@
 In this 4 hour tutorial we are going to build this full stack PageForm application.
 
 We are going to build this with:
-- Nextjs 13  with AppRouter
+- Nextjs 14  with AppRouter
 - Dnd-kit library
 - ServerActions
 - Typescript
